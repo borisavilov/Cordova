@@ -7,6 +7,6 @@ Features include:
 * Push Notification, Admob Integration, Google+, Facebook, Twitter, Twilio, PhoneBook,
 	Parse, Google Map, GPS, Mailgun, Apple MapKit, Video Chat,Text,Voice Messages, Stripe,
 	Audio recognition & translation, Social sharing, In-App Purchases
-* SenchaTouch, Ionic Framework, jQueryMobile, Angular, NodeJS, HTML5,CSS3
+* jQueryMobile, SenchaTouch, Angular, NodeJS, Ionic Framework, BackboneJS
 * Mobile Webservices(Ruby-on-Rails Backend, HTTPS, REST API with JSON, SQLite )
 	
